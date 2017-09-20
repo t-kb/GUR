@@ -1,0 +1,14 @@
+.settings
+bin
+inc
+jtag
+ld
+lib
+src
+.cproject
+.project
+main.o
+makefile
+stm32f10x_it.c
+stm32f10x_it.h
+stm32f10x_it.o
